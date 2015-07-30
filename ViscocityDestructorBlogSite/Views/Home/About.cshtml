@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+@*<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>*@
+
+<div class="jumbotron">
+    <h1>What is Code-First?</h1>
+    <p>
+        Entity Framework introduced Code-First approach from Entity Framework 4.1.
+        Code-First is mainly useful in Domain Driven Design. With the Code-First approach,
+        you can focus on the domain design and start creating classes as per your domain requirement
+        rather than design your database first and then create the classes which match your
+        database design. Code-First APIs will create the database on the fly based on your
+        entity classes and configuration.
+    </p>
+    <img src="http://www.entityframeworktutorial.net/images/EF5/code-first.png" alt="code first workflow" class="center-block"/>
+    <p>
+        So as a developer, you first start by writing C#/VB.net classes and context class.
+        When you run the application, Code First APIs will create the new database
+        (if not already exists) and map your classes with the database using default
+        code-first conventions. You can also configure your domain classes to override default
+        conventions to map with database tables using DataAnnotation attributes or fluent API.
+    </p>
+    <p>
+        Write application domain classes and context class→ configure domain classes for additional
+        mapping requirements → Hit F5 to run the application → Code First API creates new database
+        or map existing database with domain classes → Seed default/test data into
+        the database → Finally launches the application
+    </p>
+</div>

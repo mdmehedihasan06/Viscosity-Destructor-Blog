@@ -1,0 +1,109 @@
+﻿@using ViscocityDestructorBlogSite.Models
+@model IEnumerable<ViscocityDestructorBlogSite.Models.Post>
+@{
+    ViewBag.Title = "Home Page";
+
+}
+
+@*http://cdn.twitrcovers.com/wp-content/uploads/2012/10/Rain-l.jpg
+    http://cdn.twitrcovers.com/wp-content/uploads/2013/03/Music-Notes-l.jpg*@
+
+<div class="jumbotron center-block" style="background-image: url(http://cdn.twitrcovers.com/wp-content/uploads/2012/10/Rain-l.jpg); ">
+    <h1 class="text-center" style="color: white">VISCOSITY DESTRUCTOR BLOG</h1>
+    <p class="lead text-center" style="color: white">This blog will give you a basic idea of creating a blog in asp.net mvc.</p>
+    @*<p><a href="http://asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>*@
+</div>
+
+<div class="row jumbotron center-block">
+    <div class="col-md-8 panel panel-primary">
+        <h2 class="panel-heading" style="background-color: #FC5555"> Most Recent Posts</h2>
+        <table>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <a>@Html.DisplayFor(modelItem => item.Title)</a>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        @*@Html.ActionLink("", "", new { id = item.PostID })*@
+
+                        @{
+                var shortDescript = String.Concat(item.Description.Take(400));
+                        }
+                        @Html.DisplayFor(modelItem => shortDescript)
+                        <p>
+                            <a class="btn btn-default" href="About.cshtml/LinkId=@item.PostID">Read more &raquo;</a>
+                        </p>
+                    </td>
+
+                </tr>
+            }
+
+        </table>
+        <h2 class="panel-heading" style="background-color: #FC5555"> Most Viewed Posts</h2>
+        <table>
+
+            @foreach (Post post in ViewBag.List2)
+            {
+                <tr>
+                    <td>
+                        <a>@post.Title</a>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        @*@Html.ActionLink("", "", new { id = item.PostID })*@
+
+                        @{
+                var shortDescript1 = String.Concat(post.Description.Take(400));
+                        }
+                        @shortDescript1
+                        <p>
+                            <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Read more &raquo;</a>
+                        </p>
+                    </td>
+
+                </tr>
+            }
+
+        </table>
+
+    </div>
+    <div class="col-md-4">
+        <h2>Viscosity</h2>
+        <p>
+            Viscosity comes in two forms: viscosity of the design, and viscosity of
+            the environment. When faced with a change, engineers usually find more than one
+            way to make the change. Some of the ways preserve the design, others do not (i.e.
+            they are hacks.) When the design preserving methods are harder to employ than the
+            hacks, then the viscosity of the design is high. It is easy to do the wrong thing, but
+            hard to do the right thing.
+        </p>
+        <p>
+            Viscosity of environment comes about when the development environment is slow
+            and inefficient. For example, if compile times are very long, engineers will be
+            tempted to make changes that don’t force large recompiles, even though those
+            changes are not optiimal from a design point of view. If the source code control sys-
+            tem requires hours to check in just a few files, then engineers will be tempted to make
+            changes that require as few check-ins as possible, regardless of whether the design is
+            preserved.
+        </p><hr />
+        <h2>Destructor</h2>
+        <p>
+            In object-oriented programming, a destructor (sometimes shortened to dtor) is a method
+            which is automatically invoked when the object is destroyed. It can happen when its lifetime
+            is bound to scope and the execution leaves the scope, when it is embedded into another object
+            whose lifetime ends, or when it was allocated dynamically and is released explicitly.
+            Its main purpose is to free the resources (memory allocations, open files or sockets,
+            database connections, resource locks, etc.) which were acquired by the object along its life cycle
+            and/or deregister from other entities which may keep references to it.
+            The use of destructors is a necessity to the concept of Resource Acquisition Is Initialization (RAII).
+        </p>
+    </div>
+
+</div>

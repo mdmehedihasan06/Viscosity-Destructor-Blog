@@ -1,0 +1,229 @@
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.dll.config
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.pdb
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Antlr3.Runtime.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.SqlServer.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Newtonsoft.Json.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Owin.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Helpers.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Mvc.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Optimization.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Razor.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Deployment.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Razor.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\WebGrease.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.SqlServer.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Helpers.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Mvc.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Razor.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Deployment.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Razor.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Optimization.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Newtonsoft.Json.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Antlr3.Runtime.pdb
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.csprojResolveAssemblyReference.cache
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.dll
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.pdb
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.Migrations.blogInfo.resources
+D:\ASP CODE\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.csproj.GenerateResource.Cache
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.dll.config
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.pdb
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Antlr3.Runtime.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.SqlServer.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Google.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Web.Infrastructure.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Newtonsoft.Json.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Owin.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Helpers.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Mvc.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Optimization.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Razor.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Deployment.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Razor.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\WebGrease.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.SqlServer.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Helpers.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Mvc.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Razor.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Deployment.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Razor.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Optimization.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Newtonsoft.Json.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Antlr3.Runtime.pdb
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Google.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.Migrations.blogInfo.resources
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.csproj.GenerateResource.Cache
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.dll
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.pdb
+D:\atiiucProjects\PROJECT\Project 2\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.dll.config
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.pdb
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Antlr3.Runtime.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\CKEditor.NET.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\EntityFramework.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\EntityFramework.SqlServer.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Google.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Web.Infrastructure.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Newtonsoft.Json.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Owin.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.Helpers.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.Mvc.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.Optimization.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.Razor.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Deployment.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.WebPages.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Razor.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\WebGrease.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\EntityFramework.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\EntityFramework.SqlServer.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.Helpers.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.Mvc.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.Razor.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.WebPages.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Deployment.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Razor.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\System.Web.Optimization.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Newtonsoft.Json.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Antlr3.Runtime.pdb
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Google.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.pdb
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.Migrations.blogInfo.resources
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite - Amena Apu\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.csproj.GenerateResource.Cache
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.dll.config
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\ViscocityDestructorBlogSite.pdb
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Antlr3.Runtime.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\CKEditor.NET.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.SqlServer.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Google.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Web.Infrastructure.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Newtonsoft.Json.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Owin.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Helpers.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Mvc.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Optimization.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Razor.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Deployment.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Razor.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\WebGrease.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\EntityFramework.SqlServer.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Helpers.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Mvc.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Razor.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Deployment.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.WebPages.Razor.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\System.Web.Optimization.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Newtonsoft.Json.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Antlr3.Runtime.pdb
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Google.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.Migrations.blogDbInfo.resources
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.csproj.GenerateResource.Cache
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.dll
+E:\Visual Studio Work\16.02.2015\ViscocityDestructorBlogSite\ViscocityDestructorBlogSite\obj\Debug\ViscocityDestructorBlogSite.pdb
